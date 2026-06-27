@@ -17,6 +17,7 @@ Essential Documentation
 All users should be familiar with:
 
 * Building requirements: Documentation/process/changes.rst
+* Code of Conduct: Documentation/process/code-of-conduct.rst
 * License: See COPYING
 
 Documentation can be built with make htmldocs or viewed online at:
